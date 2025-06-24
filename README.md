@@ -34,7 +34,7 @@ pip install requirements.txt
 
 #### Data Preparation
 
-Our data simulation is based on [CTLib](https://github.com/xiawj-hub/CTLIB) in simulating data and training IR-based methods. If you have an interest in data simulation and IR-based networks, we recommend installing it. Furthermore, HyperFed can be easily integrated into transformer-based methods with minor modifications.
+Our data simulation is based on [CTLib](https://github.com/xiawj-hub/CTLIB) in simulating data. If you have an interest in data simulation, we recommend installing it. Furthermore, HyperFed can be easily integrated into transformer-based methods with minor modifications.
 
 Due to data copyright and privacy related issues, we are still working on obtaining permission to release the simulation data directly. However, you can use CTLib to perform the simulation based on the values from our paper.
 
