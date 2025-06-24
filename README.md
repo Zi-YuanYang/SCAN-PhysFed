@@ -20,3 +20,22 @@ If our work is valuable to you, please cite our work:
     pages     = {5154-5163}
 }
 ```
+
+
+#### Requirements
+
+Our codes were implemented by ```PyTorch 1.10``` and ```11.3``` CUDA version. If you wanna try our method, please first install necessary packages as follows:
+
+```
+pip install requirements.txt
+```
+
+#### Data Preparation
+
+Our data simulation is based on [CTLib](https://github.com/xiawj-hub/CTLIB) in simulating data and training IR-based methods. If you have an interest in data simulation and IR-based networks, we recommend installing it. Furthermore, HyperFed can be easily integrated into transformer-based methods with minor modifications.
+
+Due to data copyright and privacy related issues, we are still working on obtaining permission to release the simulation data directly. However, you can use CTLib to perform the simulation based on the values from our paper.
+
+#### Contact
+If you have any question or suggestion to our work, please feel free to contact me. My email is cziyuanyang@gmail.com.
+
