@@ -36,6 +36,8 @@ Our data simulation is based on [CTLib](https://github.com/xiawj-hub/CTLIB) in s
 
 Due to data copyright and privacy related issues, we are still working on obtaining permission to release the simulation data directly. However, you can use CTLib to perform the simulation based on the values from our paper.
 
+To ensure faster training, we will first extract the anatomy features for all images using [MiniGPT-Med](https://github.com/Vision-CAIR/MiniGPT-Med), and then store them. Please follow this step, as it will save a significant amount of training time.
+
 #### Contact
 If you have any question or suggestion to our work, please feel free to contact me. My email is cziyuanyang@gmail.com.
 
