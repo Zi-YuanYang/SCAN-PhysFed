@@ -1,0 +1,11 @@
+scikit-image
+torchsummary
+wandb
+scipy
+matplotlib
+visdom
+torchsummary
+tensorboardX
+opencv-python-headless
+opencv-contrib-python-headless
+h5py
