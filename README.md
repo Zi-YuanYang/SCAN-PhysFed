@@ -36,7 +36,7 @@ pip install requirements.txt
 
 Our data simulation is based on [CTLib](https://github.com/xiawj-hub/CTLIB) in simulating data. If you have an interest in data simulation, we recommend installing it. Furthermore, HyperFed can be easily integrated into transformer-based methods with minor modifications.
 
-Due to data copyright and privacy related issues, we are still working on obtaining permission to release the simulation data directly. However, you can use CTLib to perform the simulation based on the values from our paper.
+Due to data copyright and privacy related issues, we are still working on obtaining permission to release the simulation data directly. However, you can use CTLib to perform the simulation based on the reported scanning protocols from our paper.
 
 To ensure faster training, we will first extract the anatomy features for all images using [MiniGPT-Med](https://github.com/Vision-CAIR/MiniGPT-Med), and then store them. Please follow this step, as it will save a significant amount of training time.
 
