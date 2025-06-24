@@ -24,6 +24,8 @@ If our work is valuable to you, please cite our work:
 
 #### Requirements
 
+If you've tried our previous work [HyperFed](https://github.com/Zi-YuanYang/HyperFed), please skip this step. 
+
 Our codes were implemented by ```PyTorch 1.10``` and ```11.3``` CUDA version. If you wanna try our method, please first install necessary packages as follows:
 
 ```
