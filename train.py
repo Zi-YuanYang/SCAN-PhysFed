@@ -20,11 +20,10 @@ from validation import *
 # from dataloader.datasets import *
 from dataloader.datasets_y import *
 from components.N2N import *
-from networks.HyperRED_VAE import RED_CNN_NOHYP
+from networks.HyperRED_SCAN import RED_CNN_NOHYP
 
 from utils.Communication import *
 from utils.fednova import FedNova
-from networks.HyperRED_BN import RED_CNN2 as Hyper_BN
 # from skimage.metrics import peak_signal_noise_ratio, structural_similarity
 import torch.nn.functional as F
 
@@ -660,3 +659,4 @@ if __name__ == '__main__':
 
     network = net(opt)
     network.train(opt)
+
