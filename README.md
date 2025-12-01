@@ -1,5 +1,11 @@
 # <p align=center> Patient-Level Anatomy Meets Scanning-Level Physics: Personalized Federated Low-Dose CT Denoising Empowered by Large Language Model
 
+ <div align="center">
+     
+[![Paper](https://img.shields.io/badge/SCAN--PhysFed-Paper-yellow.svg)](https://cvpr.thecvf.com/virtual/2025/poster/34378)
+
+</div>
+
 ---
 
 This repository is a PyTorch implementation of SCAN-PhysFed (accepted by CVPR 2025). This paper can be downloaded at [this link](https://openaccess.thecvf.com/content/CVPR2025/html/Yang_Patient-Level_Anatomy_Meets_Scanning-Level_Physics_Personalized_Federated_Low-Dose_CT_Denoising_CVPR_2025_paper.html).
