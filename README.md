@@ -2,7 +2,7 @@
 
  <div align="center">
      
-[![Paper](https://img.shields.io/badge/SCAN--PhysFed-Paper-yellow.svg)](https://cvpr.thecvf.com/virtual/2025/poster/34378)
+[![Paper](https://img.shields.io/badge/SCAN--PhysFed-CVPR-red.svg)](https://cvpr.thecvf.com/virtual/2025/poster/34378)
 
 </div>
 
